@@ -26,5 +26,6 @@ swagger-ui --port 3000 tsp-output/\@typespec/openapi3/openapi.yaml
 
 ## References
 
-* [microsoft/typespec](https://github.com/microsoft/typespec)
-* https://cadlplayground.z22.web.core.windows.net/
+* [microsoft/typespec GitHub repository](https://github.com/microsoft/typespec)
+* [TypeSpec Data Types](https://microsoft.github.io/typespec/getting-started/typespec-for-openapi-dev#data-types)
+* [CADL playground](https://cadlplayground.z22.web.core.windows.net/)
